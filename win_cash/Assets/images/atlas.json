@@ -1,0 +1,42 @@
+{
+
+"images": [
+    "atlas.png"
+],
+
+"frames": [
+    [2, 2, 120, 118, 0, 0, 0],
+    [124, 2, 120, 118, 0, 0, 0],
+    [246, 2, 120, 118, 0, 0, 0],
+    [368, 2, 120, 118, 0, 0, 0],
+    [490, 2, 120, 118, 0, 0, 0],
+    [612, 2, 120, 118, 0, 0, 0],
+    [734, 2, 120, 117, 0, 0, 0],
+    [856, 2, 79, 77, 0, 0, 0],
+    [856, 81, 158, 38, 0, 0, 0],
+    [937, 2, 79, 77, 0, 0, 0],
+    [1018, 2, 157, 38, 0, 0, 0],
+    [1016, 81, 158, 38, 0, 0, 0]
+],
+
+"animations": {
+    "flower_blue_s": [0],
+    "flower_green_s": [1],
+    "flower_orange_s": [2],
+    "flower_red_s": [3],
+    "flower_white_s": [4],
+    "flower_yellow_s": [5],
+    "flower_black_s": [6],
+    "quitBtn": [7],
+    "spinBtn": [8],
+    "startBtn": [9],
+    "resetBtn": [10],
+    "spinBtn_grey": [11]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:8b2c1dc40a91885f504955b490b234b8:72b25f8c65217ec5e1f6b8b23684a26a:cbce6b53f0f49e0bf15173c25c41f876$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
